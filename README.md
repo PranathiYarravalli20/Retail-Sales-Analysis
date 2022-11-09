@@ -1,5 +1,6 @@
-# Book-Prices-EDA
+# Retail-Sales Data Analysis
 Using Pandas, Seaborne libraries for data cleaning and exploratory data analysis of retail sales data.
 Abstract:
+  My notebook will focus on exploratory data analysis (EDA).
 
-This data contains bike sales in Europe and America and the relationship between leading profits with age groups of people and according to males and females and needs that can bepurchased when buying a bike and we can predict future prices using machine learning once the product is developed so the machine will make the decision in setting the price and this data was analyzed by reviewing bicycle data and extracting insights into sales in each of their countries. And calculate the percentage of profits in each of the countries. Also, who buys bikes more, males or females, and what are the most expensive types of bikes, who the most years in which bikes were sold? The results were presented in graphic images that easily simulate this information.
+This data contains sales of 4categories like bikes,Accessories,clothing and Components in different countries. To start discovering key insights from the sales database with finding volume of products sold in each category w.r.t sales region, promotion(discount) and relation between variables of prices (unit,list,sales amount) and plotting and representing in graphic images. 
