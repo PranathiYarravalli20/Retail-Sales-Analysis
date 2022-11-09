@@ -1,5 +1,6 @@
 # Retail-Sales Data Analysis
 Using Pandas, Seaborne libraries for data cleaning and exploratory data analysis of retail sales data.
+
 Abstract:
   My notebook will focus on exploratory data analysis (EDA).
 
